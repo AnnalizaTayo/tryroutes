@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0223a97a.css",
+    "main.js": "/static/js/main.570254cd.js",
+    "static/media/blackGoldBg.png": "/static/media/blackGoldBg.73a7057176f4639e5c98.png",
+    "index.html": "/index.html",
+    "main.0223a97a.css.map": "/static/css/main.0223a97a.css.map",
+    "main.570254cd.js.map": "/static/js/main.570254cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0223a97a.css",
+    "static/js/main.570254cd.js"
+  ]
+}
